@@ -16,7 +16,7 @@ public class ClubServiceImpl implements ClubService {
 
 	public ClubServiceImpl() {
 		clubs = new ArrayList<>();
-		clubs.add(new Club(1, "Barcelona FC"));
+		clubs.add(new Club(1, "Barcelona"));
 		clubs.add(new Club(2, "Milan"));
 
 	}
